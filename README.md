@@ -1,16 +1,26 @@
-# alarm_app
+## Setup
 
-A new Flutter project.
+To run this code, you need to install flutter first
 
-## Getting Started
+* [Install Flutter](https://flutter.dev/get-started/)
 
-This project is a starting point for a Flutter application.
+After install flutter SDK, you need to install emulator or you can use your device
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Clone the project
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+``` bash
+$ git clone https://github.com/isagoutama/flutter-alarm-test.git
+```
+CD to directory with cmd or terminal
+
+``` bash
+$ cd [project_flutter_alarm_test_directory]
+```
+
+Then run the code
+
+``` bash
+$ flutter run --release
+```
