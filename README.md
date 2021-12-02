@@ -1,6 +1,7 @@
 ## Setup
 
 To run this code, you need to install flutter first
+I'm using version 2.2.3
 
 * [Install Flutter](https://flutter.dev/get-started/)
 
